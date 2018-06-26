@@ -1,0 +1,15 @@
+h1,h2,h3,h4,p
+{
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1{
+  color:white;
+}
+
+.BackGround
+{
+image(the-flatiron-building.png)
+
+}
