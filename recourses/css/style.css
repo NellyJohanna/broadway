@@ -4,12 +4,60 @@ h1,h2,h3,h4,p
   text-align: center;
 }
 
+.building
+{
+  background-image:url(images/the-flatiron-building.png);
+}
 h1{
+  color:white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2
+{
+  font-size:32px;
+}
+
+h3
+{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4
+{
+font-size: 18px;
+color:white;
+}
+
+.backgroundimage
+{
+position:relative;
+width: 100%;
+}
+
+#grey
+{
+  background-color: dimgrey;
+  }
+
+#links
+{
+  text-align: left;
+}
+
+#white
+{
   color:white;
 }
 
-.BackGround
+p
 {
-image(the-flatiron-building.png)
+  font-size: 14px;
+}
 
+#klein
+{
+font-size: 11px;
 }
